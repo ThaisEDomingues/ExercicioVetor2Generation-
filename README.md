@@ -1,4 +1,5 @@
-*******VETOR 1*******
+VETOR 1
+
 Algoritmo Bubble Sort em Portugol (Ordem Decrescente)
 Este repositório contém um exemplo prático de implementação do algoritmo de ordenação Bubble Sort (Ordenação por Bolha) utilizando a linguagem Portugol. O objetivo do programa é organizar um vetor de números inteiros de forma decrescente.
 
@@ -34,8 +35,8 @@ Plaintext
 Vetor original: 2 5 1 3 4 9 7 8 10 6 
 
 Vetor ordenado em ordem decrescente: 10 9 8 7 6 5 4 3 2 1 
-
-******VETOR 2********
+======================================================================================
+VETOR 2
 
 # Algoritmo de Processamento de Vetores (Soma, Média e Filtros)
 
